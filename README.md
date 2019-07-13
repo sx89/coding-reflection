@@ -1,5 +1,5 @@
 # coding-reflection
-1.反思代码2.收藏精妙代码
+1.反思代码2.收藏精妙代码3.debug反思
 
 ## 反思
 
@@ -9,7 +9,22 @@
 + 
 ## 收藏
 
+try catch
 ![](pic/Snipaste_2019-07-11_13-31-19.jpg)
 
+代码块间隔规则
 ![](pic/Snipaste_2019-07-11_20-17-42.jpg)
+
+Long.parselong
+![](pic/Snipaste_2019-07-13_11-21-07.jpg)
+
+[LinkedHashMap 神器!](https://blog.csdn.net/justloveyou_/article/details/71713781)
+![](pic/Snipaste_2019-07-13_11-33-35.jpg)
+
+
+## debug
++ 控制变量,当变量较多时,把变量改成常量来运行
++ 条件断点和异常断点的使用
++ 认真思考报错信息
++ 如果查找报错信息没有找到好的解决办法,可以通过查找正确的代码来"对比debug" 例如之前oracle双库的事务bug
 
